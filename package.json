@@ -1,0 +1,33 @@
+{
+  "name": "elastic-search-loader",
+  "version": "1.0.0",
+  "description": "Loader de datos a elastic search",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljvilla/elasticSearchLoader.git"
+  },
+  "keywords": [
+    "elastic",
+    "search",
+    "loader",
+    "node"
+  ],
+  "author": "Manuel Villafañe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aljvilla/elasticSearchLoader/issues"
+  },
+  "homepage": "https://github.com/aljvilla/elasticSearchLoader#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "csvtojson": "^1.1.3",
+    "elasticsearch": "^12.1.3",
+    "fs": "0.0.1-security",
+    "request": "^2.79.0",
+    "validate-ip": "^1.0.1"
+  }
+}
