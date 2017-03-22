@@ -5,7 +5,7 @@ Script desarrollado para cargar estructuras de datos en ElasticSearch
 Uso
 ---
 ```
-$ npm install git+https://bitbucket.org/conicytdev/elastic-search-loader.git --save
+$ npm install git+https://github.com/aljvilla/elasticSearchLoader.git --save
 ```
 
 Ejemplo
